@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hihi
+=======
+second commit
+third commit
+>>>>>>> 4d1f603fea2e1a745bfac8f96f8ba76fa150bb79
